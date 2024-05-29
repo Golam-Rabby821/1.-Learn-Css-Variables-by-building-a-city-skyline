@@ -1,4 +1,4 @@
-## Learn CSS Variales
+# Learn CSS Variales
 
 In this lesson, I have learned how to
 1. use css varibales
@@ -7,4 +7,4 @@ In this lesson, I have learned how to
 4. Use media query to make the page responsive.
 5. efficiently use border properties to make different shapes of building.
 
-#  Here, if window size is less than equal 1000px, we will see night skyline, otherwise day skyline.
+### Here, if window size is less than equal 1000px, we will see night skyline, otherwise day skyline.
